@@ -1,19 +1,4 @@
-# test
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+# sibal
 
 시발 tailwind@4 버전 왜 노드모듈 .bin 안에 실행파일 실행 안 시켜줌?
 이 새끼 때문에 nvm 하고 npx 다 지우고 패스 설정까지 다 했네 개시발련아

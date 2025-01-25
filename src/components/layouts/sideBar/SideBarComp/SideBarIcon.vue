@@ -8,4 +8,4 @@ const props = defineProps({
   iconValue: Number,
 });
 </script>
-<style lang=""></style>
+<style scoped></style>

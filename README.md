@@ -1,2 +1,2 @@
 # Tailwind + Vue3 Learn
-![alt text](https://media.discordapp.net/attachments/881176681635782676/1332818142459723857/image.png?ex=6796a31f&is=6795519f&hm=c1dfa1fcc4e1739bf804fbd591e7afae683e8d15e52acee7cbe705a5954c9a8b&=&format=webp&quality=lossless&width=445&height=669)
+![alt text](https://media.discordapp.net/attachments/881176681635782676/1333206159624241152/image.png?ex=67980c7e&is=6796bafe&hm=763b0cfcebd6d007562616735706765950c8e4f1e3385a8151abd6e09cb3d698&=&format=webp&quality=lossless&width=698&height=670)

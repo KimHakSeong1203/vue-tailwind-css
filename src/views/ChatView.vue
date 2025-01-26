@@ -1,7 +1,7 @@
 <template>
-  <div class="flex flex-col min-h-screen bg-gray-900">
+  <div class="flex flex-col h-screen bg-gray-900">
     <SideBar />
-    <div v-if="roomId" class="ml-20 p-2 mt-2">
+    <div v-if="roomId">
       <ChatingView :roomId="roomId" />
     </div>
     <div v-else class="ml-20 p-2 mt-2 text-white">

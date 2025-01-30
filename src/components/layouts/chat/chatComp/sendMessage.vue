@@ -1,6 +1,7 @@
 <template>
   <fwb-input
     class=""
+    @keyup.enter="sendingMessage"
     v-model="sendMessage"
     label=" "
     placeholder="Message"
